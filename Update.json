@@ -1,0 +1,10 @@
+{
+  "<https://mclolocraft.jimdosite.com/update>": "<https://mclolocraft.jimdosite.com/update>",
+  "<mcversion>": {
+    "<1.16.5>": "<https://mclolocraft.jimdosite.com/update>", 
+  },
+  "promos": {
+    "<1.16.5>-latest": "<1.2.0>",
+    "<1,16.5>-recommended": "<1.2.0>"
+  }
+}
