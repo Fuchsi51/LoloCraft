@@ -1,10 +1,10 @@
 {
-  "homepage": "<homepage/download page for your mod>",
-  "<mcversion>": {
-    "<modversion>": "<changelog for this version>", 
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/lolocraft/files",
+  "1.16.5": {
+    "5.0.1": "Test", 
   },
   "promos": {
-    "<mcversion>-latest": "<modversion>",
-    "<mcversion>-recommended": "<modversion>",
+    "1.16.5-latest": "5.0.1",
+    "1.16.5-recommended": "5.0.0",
   }
 }
