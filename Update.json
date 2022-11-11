@@ -1,11 +1,11 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
 	"promos": {
-		"1.16.5-latest": "6.8.6",
-		"1.16.5-recommended": "6.8.6"
+		"1.16.5-latest": "5.0.1",
+		"1.16.5-recommended": "5.0.1"
 	},
 	"1.16.5": {
-		"6.8.6": "final version"
+		"6.8.6": "Bugs: The Galaxy Ore now spawn also in the Galaxy Hills\nChanges: The Galaxy Dirt can now brake better with a Shovel\nThe Galaxy Grass can now brake better with a Shovel\nThe Galaxy Dust will now be removed on use\nThe Galaxy Creeper can now brake in to your House\n New: The Galaxy Sword now levitates enemies for 3 seconds when they get hit"
 	}
 }
 
