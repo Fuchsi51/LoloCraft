@@ -5,3 +5,8 @@
 ## Bioms
 
 * [The Galaxy Biom](bioms/the-galaxy-biom.md)
+* [The Galaxy Hills](bioms/the-galaxy-hills.md)
+
+## Ores
+
+* [The Galaxy Ore](ores/the-galaxy-ore.md)
