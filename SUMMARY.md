@@ -10,3 +10,7 @@
 ## Ores
 
 * [The Galaxy Ore](ores/the-galaxy-ore.md)
+
+## items
+
+* [Untitled](items/untitled.md)
