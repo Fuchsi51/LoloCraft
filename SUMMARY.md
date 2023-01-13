@@ -19,3 +19,9 @@
 
 * [Galaxy Wood](crafting/galaxy-wood.md)
 * [Galaxy Ore](crafting/galaxy-ore.md)
+* [Other](crafting/other.md)
+
+## Structure
+
+* [Ender Structure](structure/ender-structure.md)
+* [Willi House](structure/willi-house.md)

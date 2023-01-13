@@ -2,19 +2,19 @@
 
 ### Galaxy Stairs
 
-![](<../.gitbook/assets/grafik (13).png>) Added in: 5.0.5
+![](<../.gitbook/assets/grafik (12).png>) Added in: 5.0.5
 
 ### Galaxy Sleb
 
-![](<../.gitbook/assets/grafik (2).png>) Added in: 5.0.5
+![](<../.gitbook/assets/grafik (1).png>) Added in: 5.0.5
 
 ### Galaxy Fence
 
-![](<../.gitbook/assets/grafik (3).png>) Added in: 5.0.5
+![](<../.gitbook/assets/grafik (16).png>) Added in: 5.0.5
 
 ### Galaxy Fence Gate
 
-![](<../.gitbook/assets/grafik (6).png>) Added in: 5.0.5
+![](<../.gitbook/assets/grafik (3).png>) Added in: 5.0.5
 
 ### Galaxy Pressurplate
 
@@ -22,4 +22,4 @@
 
 ### Galaxy Button
 
-![](<../.gitbook/assets/grafik (9).png>) Added in: 5.0.5
+![](<../.gitbook/assets/grafik (19).png>) Added in: 5.0.5
