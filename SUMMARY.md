@@ -14,3 +14,7 @@
 ## items
 
 * [Untitled](items/untitled.md)
+
+## Crafting
+
+* [Galaxy Wood](crafting/galaxy-wood.md)
