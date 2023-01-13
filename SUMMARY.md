@@ -18,3 +18,4 @@
 ## Crafting
 
 * [Galaxy Wood](crafting/galaxy-wood.md)
+* [Galaxy Ore](crafting/galaxy-ore.md)
