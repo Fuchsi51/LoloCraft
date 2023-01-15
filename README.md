@@ -6,4 +6,4 @@ description: This is the introduction for the LoloCraftV mod
 
 ### Download the Mod
 
-You can download the mod from&#x20;
+You can download the mod from CurseForge or From the Web Launcher

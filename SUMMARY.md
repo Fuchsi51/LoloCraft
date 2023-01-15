@@ -11,10 +11,6 @@
 
 * [The Galaxy Ore](ores/the-galaxy-ore.md)
 
-## items
-
-* [Untitled](items/untitled.md)
-
 ## Crafting
 
 * [Galaxy Wood](crafting/galaxy-wood.md)
