@@ -13,3 +13,7 @@
 ### Nuclea Galaxy TNT
 
 ![](<../.gitbook/assets/grafik (5).png>) Added in: 5.0.2
+
+### Galaxy Explosive Sword
+
+![](../.gitbook/assets/grafik.png)Added in: 5.0.6
