@@ -20,7 +20,7 @@
 
 ### Galaxy Hoe
 
-![](<../.gitbook/assets/grafik (8).png>) Added in: 5.0.0
+![](<../.gitbook/assets/grafik (8) (1).png>) Added in: 5.0.0
 
 ## Armor
 

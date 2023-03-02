@@ -2,22 +2,26 @@
 
 * [Welcome](README.md)
 
-## Bioms
+## 🌄 Bioms
 
 * [The Galaxy Biom](bioms/the-galaxy-biom.md)
 * [The Galaxy Hills](bioms/the-galaxy-hills.md)
 
-## Ores
+## 🍀 Ores
 
 * [The Galaxy Ore](ores/the-galaxy-ore.md)
 
-## Crafting
+## 🪵 Crafting
 
 * [Galaxy Wood](crafting/galaxy-wood.md)
 * [Galaxy Ore](crafting/galaxy-ore.md)
 * [Other](crafting/other.md)
 
-## Structure
+## 🏠 Structure
 
 * [Ender Structure](structure/ender-structure.md)
 * [Willi House](structure/willi-house.md)
+
+## 👑 Achievements
+
+* [The LoloCraft Achievements](achievements/the-lolocraft-achievements.md)
