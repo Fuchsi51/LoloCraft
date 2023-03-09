@@ -10,7 +10,6 @@
 ## 🍀 Ores
 
 * [The Galaxy Ore](ores/the-galaxy-ore.md)
-* [The Fox Coin Ore](ores/the-fox-coin-ore.md)
 
 ## 🪵 Crafting
 
